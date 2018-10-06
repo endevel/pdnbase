@@ -1,0 +1,13 @@
+
+[Event "kndb"]
+[Site "Eijk,van,S.M. Standjes"]
+[Date "2017.02.17"]
+[Round "?"]
+[White "Sijbrand van Eijk"]
+[Black "Dam  2.2  v.7"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "W:W23,24,28,33,38,40,44,45,50:B2,7,8,9,15,17,20,27,35."]
+
+1. 28-22 17x30 2. 38-32 27x29 3. 40-34 29x49 4. 50-44 49x40 5. 45x1 2-8 1-0
+
